@@ -52,6 +52,7 @@ static char  *license = "\
  *		- make pasting larger messages work
  *		- sometimes the ajax autoupdate stops working and needs a refresh
  *		- fix scrolling up
+ *		- fix: sending messages is impossible while the user avatar is loading
  *
  *		CHANGES:
  *
